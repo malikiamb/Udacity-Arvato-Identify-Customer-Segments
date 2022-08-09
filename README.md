@@ -53,4 +53,5 @@ We recommend cluster 9 as a target customer base for Arvarto mail order advertis
 
 Further analysis of this cluster revealed like features like retired or near retirement, aspiring or likely to stay home, low interest in social activities as an example. Each of these would support the notion that this group has high potential to be available and respond to the marketing efforts. 
 
-
+# Blogpost
+https://medium.com/@melthompsonb/data-science-machine-learning-unsupervised-kmeans-clustering-5b34b796149b
